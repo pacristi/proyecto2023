@@ -3,3 +3,6 @@ G01
 .venv/
 balu3
 features
+y_test.npy
+y_train.npy
+selected_features
